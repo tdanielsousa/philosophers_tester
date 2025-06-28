@@ -22,7 +22,7 @@ Tester takes an optional 2nd argument of the path to your ```philo``` executable
 
 Example:  
 ```bash
-./test.sh ../philo
+./test.sh ./philo
 ```
 If not provided, the tester assumes the path is ```./philo``` - i.e. in same directory as tester directory.
 
@@ -40,5 +40,9 @@ no_die_tests=(
 
 
 ## Credits
-Timed-checker Python script ```PhilosophersChecker.py``` [(link)](https://gist.github.com/jkctech/367fad4aa01c820ffb1b8d29d1ecaa4d) was written by [JKCTech](https://gist.github.com/jkctech) and modified slightly by me to take an optional timer duration.  
-[Progress bar function](https://stackoverflow.com/a/52581824) written by Vagiz Duseev, found on StackOverflow.
+This is inspired on the LazyPhilosophers Tester made by MichelleJiam  
+```
+https://github.com/MichelleJiam/LazyPhilosophersTester
+```
+It's however completely different, it's only one single .sh file, uses no py.
+
