@@ -1,10 +1,10 @@
-#Tester for Philosophers project at 42 School 
+## Tester for Philosophers project at 42 School 
 
-It allows you to test:
- 0 - Run both tests 
- 1 - Run tests where should die, eat X times, check args 
- 2 - Run timed tests where it shouldn't die 
- 3 - Helgrind syntax to copy paste 
+It allows you to test:  
+ 0 - Run both tests  
+ 1 - Run tests where should die, eat X times, check args  
+ 2 - Run timed tests where it shouldn't die  
+ 3 - Helgrind syntax to copy paste  
 
 ![Screenshot of the tester](https://i.imgur.com/cOCqfjZ.png)
 
